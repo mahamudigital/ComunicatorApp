@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1002966971941",
+    "project_id": "comunicatorapp-39aeb",
+    "storage_bucket": "comunicatorapp-39aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002966971941:android:caeba9778437a1513cf1cc",
+        "android_client_info": {
+          "package_name": "com.example.comunicatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002966971941-rr35f4f61cm02a00psg5t1bagrbpjep7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comunicatorapp",
+            "certificate_hash": "8db5ce0d540b2b8efc5a7a5927676668eca22344"
+          }
+        },
+        {
+          "client_id": "1002966971941-b1kv56dlif329cqkftibunida786sj6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2PS9zDI0ZzNNb_aQWTr-u4HyGsBVxko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002966971941-b1kv56dlif329cqkftibunida786sj6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
